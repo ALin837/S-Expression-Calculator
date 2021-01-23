@@ -23,16 +23,16 @@ $ ./calc.py "(add 3 (add (multiply 35 3) 3))"
 **Examples: (In Windows)**
 
 ```
-\calc>python calc.py "1"
+>python calc.py "1"
 >> 1
 
-\calc>python calc.py "(add 3 4)"
+>python calc.py "(add 3 4)"
 >> 7
 
-\calc>python calc.py "(multiply 2 12)"
+>python calc.py "(multiply 2 12)"
 >> 24
 
-\calc>python calc.py "(add 3 (add (multiply 35 3) 3))"
+>python calc.py "(add 3 (add (multiply 35 3) 3))"
 >> 111
 
 ```
